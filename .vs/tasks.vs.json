@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Function",
+      "appliesTo": "src/main/java/com/function/Function.java",
+      "type": "launch"
+    }
+  ]
+}
